@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css or styles.css */
+.slick-dots li.slick-active div {
+  background-color: white !important; /* Change active dot color to white */
+}

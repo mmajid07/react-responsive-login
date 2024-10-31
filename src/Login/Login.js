@@ -15,7 +15,6 @@ import { Apple, Google, Visibility, VisibilityOff } from "@mui/icons-material";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import { json } from "react-router-dom";
 import "../../src/App.css";
 
 export const Login = () => {
